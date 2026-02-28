@@ -1,7 +1,7 @@
 # econometriaPPGE
 Material do Curso de Econometria da Pós Graduação em Economia da UFF
 
-Econometria (60 horas) – 1º. Semestre de 2023
+Econometria (60 horas) – 1º. Semestre de 2026
 Profa. Danielle Carusi Machado – dcarusi@id.uff.br 
 
 Objetivo do curso de Econometria
